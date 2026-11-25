@@ -98,4 +98,4 @@ Arduino Uno · DPDT relay (KS2E-M-DC5, 5 V) · 2 × 1000 µF / 40 V capacitors �
 
 ## Author
 
-**Vulani Makwakwa** · B.Eng.Tech Computer Engineering (CPUT, 2026) · Cape Town
+**Vulani Makwakwa** · B.Eng.Tech Computer Engineering (CPUT, 2026) · Cape Town · [GitHub](https://github.com/Vulaniperseve) · [LinkedIn](https://www.linkedin.com/in/vulani-makwakwa-24229a23a/)
